@@ -1,2 +1,0 @@
-G:\Documents\GitHub\Android-Hand-Drawing\app\build\intermediates\classes\debug
-G:\Documents\GitHub\Android-Hand-Drawing\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-6608043aee2dfeee8449d8e3c1b2de1da465970a.jar
